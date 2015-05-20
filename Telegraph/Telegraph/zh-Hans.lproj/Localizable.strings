@@ -1,0 +1,1003 @@
+// Notifications
+"MESSAGE_TEXT" = "%1$@: %2$@";
+"MESSAGE_NOTEXT" = "%1$@ 给你发送了一条消息";
+"MESSAGE_PHOTO" = "%1$@ 给你发送了一张图片";
+"MESSAGE_VIDEO" = "%1$@ 给你发送了一段视频";
+"MESSAGE_CONTACT" = "%1$@ 给你分享了一个联系人";
+"MESSAGE_GEO" = "%1$@ 给你发送了一个位置";
+"MESSAGE_DOC" = "%1$@ 给你发送了一个文件";
+"MESSAGE_AUDIO" = "%1$@ 给你发送了一段语音";
+"ENCRYPTED_MESSAGE" = "你有一条新消息%1$@";
+"ENCRYPTION_REQUEST" = "新的加密请求%1$@";
+"ENCRYPTION_ACCEPT" = "你的加密请求已被接受%1$@";
+"DC_UPDATE" = "打开这个通知来更新应用设置";
+
+"CHAT_MESSAGE_TEXT" = "%1$@@%2$@: %3$@";
+"CHAT_MESSAGE_NOTEXT" = "%1$@ 发了一条消息到 %2$@ 群组";
+"CHAT_MESSAGE_PHOTO" = "%1$@ 发了一张图片到 %2$@ 群组";
+"CHAT_MESSAGE_VIDEO" = "%1$@ 发了一段视频到 %2$@ 群组";
+"CHAT_MESSAGE_CONTACT" = "%1$@ 分享了一个联系人到 %2$@ 群组";
+"CHAT_MESSAGE_GEO" = "%1$@ 发送了一个位置到 %2$@ 群组";
+"CHAT_MESSAGE_DOC" = "%1$@ 发送了一个文件到 %2$@ 群组";
+"CHAT_MESSAGE_AUDIO" = "%1$@ 发送了一段语音到 %2$@ 群组";
+"CHAT_CREATED" = "%1$@ 邀请你加入 %2$@ 群组";
+"CHAT_TITLE_EDITED" = "%1$@ 编辑了 %2$@ 群组的名称";
+"CHAT_PHOTO_EDITED" = "%1$@ 编辑了 %2$@ 群组的图片";
+"CHAT_ADD_MEMBER" = "%1$@ 邀请了 %3$@ 加入 %2$@ 群组";
+"CHAT_ADD_YOU" = "%1$@ 邀请你加入 %2$@ 群组";
+"CHAT_DELETE_YOU" = "%1$@ 将你移出了 %2$@ 群组";
+"CHAT_DELETE_MEMBER" = "%1$@ 将 %3$@ 从 %2$@ 群组移出";
+"CHAT_LEFT" = "%1$@ 一离开 %2$@ 群组";
+"CHAT_RETURNED" = "%1$@ 回到了 %2$@ 群组";
+
+"MESSAGE_STICKER" = "%1$@ 给你发了个表情";
+"CHAT_MESSAGE_STICKER" = "%1$@ 在小组里发了个表情 %2$@";
+
+"CONTACT_JOINED" = "%1$@ 加入了 Dove!";
+"CONTACT_ACTIVATED" = "%1$@ 帮你激活了账号!";
+
+"AUTH_UNKNOWN" = "在新的设备中登录, %1$@";
+"AUTH_REGION" = "在新的设备中登录，设备: %1$@, 位置: %2$@";
+
+// Common
+"Common.OK" = "确定";
+"Common.Cancel" = "取消";
+"Common.Edit" = "编辑";
+"Common.edit" = "编辑";
+"Common.Done" = "完成";
+"Common.Next" = "下一步";
+"Common.Delete" = "删除";
+"Common.Create" = "新建";
+"Common.Back" = "返回";
+"Common.Close" = "关闭";
+"Common.Yes" = "是";
+"Common.No" = "否";
+"Common.TakePhotoOrVideo" = "拍照或视频";
+"Common.TakePhoto" = "拍照";
+"Common.ChoosePhoto" = "选择照片";
+"Common.ChooseVideo" = "选择视频";
+"Common.of" = "of";
+"Common.Search" = "搜索";
+"Common.More" = "更多";
+"Common.CheckNetwork" = "请检查网络环境";
+"Common.Update" = "更新";
+
+// State
+"State.connecting" = "正在连接";
+"State.updating" = "正在刷新";
+"State.Connecting" = "正在连接...";
+"State.Updating" = "正在刷新...";
+"State.WaitingForNetwork" = "正在等待网络";
+
+// Presence
+"Presence.online" = "在线";
+"Presence.offline" = "离线";
+"Presence.invisible" = "隐身";
+
+// Date
+"Month.GenJanuary" = "一月";
+"Month.GenFebruary" = "二月";
+"Month.GenMarch" = "三月";
+"Month.GenApril" = "四月";
+"Month.GenMay" = "五月";
+"Month.GenJune" = "六月";
+"Month.GenJuly" = "七月";
+"Month.GenAugust" = "八月";
+"Month.GenSeptember" = "九月";
+"Month.GenOctober" = "十月";
+"Month.GenNovember" = "十一月";
+"Month.GenDecember" = "十二月";
+"Month.ShortJanuary" = "一月";
+"Month.ShortFebruary" = "二月";
+"Month.ShortMarch" = "三月";
+"Month.ShortApril" = "四月";
+"Month.ShortMay" = "五月";
+"Month.ShortJune" = "六月";
+"Month.ShortJuly" = "七月";
+"Month.ShortAugust" = "八月";
+"Month.ShortSeptember" = "九月";
+"Month.ShortOctober" = "十月";
+"Month.ShortNovember" = "十一月";
+"Month.ShortDecember" = "十二月";
+"Weekday.ShortMonday" = "周一";
+"Weekday.ShortTuesday" = "周二";
+"Weekday.ShortWednesday" = "周三";
+"Weekday.ShortThursday" = "周四";
+"Weekday.ShortFriday" = "周五";
+"Weekday.ShortSaturday" = "周六";
+"Weekday.ShortSunday" = "周日";
+"Weekday.Monday" = "周一";
+"Weekday.Tuesday" = "周二";
+"Weekday.Wednesday" = "周三";
+"Weekday.Thursday" = "周四";
+"Weekday.Friday" = "周五";
+"Weekday.Saturday" = "周六";
+"Weekday.Sunday" = "周日";
+
+"Time.TodayAt" = "今天 %@";
+"Time.YesterdayAt" = "昨天 %@";
+
+"LastSeen.JustNow" = "刚刚上过线";
+"LastSeen.MinutesAgo_1" = "1分钟前上过线"; //one
+"LastSeen.MinutesAgo_2" = "2分钟前上过线"; //two
+"LastSeen.MinutesAgo_3_10" = "%@ 分钟前上过线"; //three to ten
+"LastSeen.MinutesAgo_any" = "%@ 分钟前上过线"; // more than ten
+"LastSeen.HoursAgo_1" = "1小时前上过线";
+"LastSeen.HoursAgo_2" = "2小时前上过线";
+"LastSeen.HoursAgo_3_10" = "%@ 小时前上过线";
+"LastSeen.HoursAgo_any" = "%@ 小时前上过线";
+"LastSeen.TodayAt" = "今天最后上线 %@ ";
+"LastSeen.YesterdayAt" = "昨天最后上线 %@";
+"LastSeen.AtWeekday" = "最后上线 %@";
+"LastSeen.AtDate" = "最后上线 %@";
+"LastSeen.Lately" = "最近上过线";
+"LastSeen.WithinAWeek" = "最近一周内上过线";
+"LastSeen.WithinAMonth" = "最近一个月内上过线";
+"LastSeen.ALongTimeAgo" = "很久未上线了";
+
+"Date.DialogDateFormat" = "{month} {day}";
+
+// Tour
+"Tour.Title1" = "Dove";
+"Tour.Text1" = "Dove 是在Telegram的基础上专为群组而建的产品，希望打造最好的群组交流工具。";
+
+"Tour.Title2" = "Telegram";
+"Tour.Text2" = "Telegram是一个开源的，强大的，基于云服务的即时通讯应用，它是免费的，最快的，也是目前最安全的。";
+
+"Tour.Title3" = "激活";
+"Tour.Text3" = "在以下的若干个步骤里，您将使用一个属于您的电话号码登录，随后您将收到一个从Telegram发出的激活码短信。";
+
+"Tour.Title4" = "联系人";
+"Tour.Text4" = "经您同意之后，您的通讯簿将被上传到Telegram的服务器上（而不是Dove的服务器）。您的通讯录将帮助Telegram识别您的朋友，以便随时通知您您朋友的在线状态。";
+
+"Tour.StartButton" = "开始聊天";
+
+// Login
+"Login.PhoneAndCountryHelp" = "请确认你的国家区号并输入你的手机号码。";
+"Login.CodeHelp" = "我们发送了一条带有验证码的短信到您的手机 \n%@";
+"Login.CodeSentInternal" = "请输入你之前安装的 Telegram 应用内收到的验证码";
+"Login.HaveNotReceivedCodeInternal" = "还没收到验证码？";
+"Login.CodeSentSms" = "我们发送了一条带有验证码的短信到您的手机";
+"Login.Code" = "验证码";
+"Login.CallRequestState1" = "Dove 将会呼叫你的手机 %d:%.2d";
+"Login.CallRequestState2" = "正在呼叫...";
+"Login.CallRequestState3" = "Dove 呼叫了你的号码\n[没收到验证码?]";
+"Login.EmailNotConfiguredError" = "请设置一个邮箱.";
+"Login.EmailCodeSubject" = "%@, 无验证码";
+"Login.EmailCodeBody" = "我的点化石:\n%@\n我收不到 Dove 发的验证码.";
+"Login.UnknownError" = "出错了. 请稍后重试";
+"Login.InvalidCodeError" = "你输入的验证码无效，请稍后再试。";
+"Login.NetworkError" = "请检查网络，再试。";
+"Login.CodeExpiredError" = "验证码已过期，请稍后再试。";
+"Login.CodeFloodError" = "尝试次数过多，请稍后再试";
+"Login.InvalidPhoneError" = "手机号码无效，请重试。";
+"Login.InvalidFirstNameError" = "名字无效，请重试";
+"Login.InvalidLastNameError" = "姓氏无效，请重试";
+"Login.InactiveHelp" = "你是所有联系人中第一个加入Dove的！\n其他人加入的时候我们会通知你。\n直接邀请朋友加入吧。";
+"Login.InviteButton" = "邀请朋友";
+
+"Login.PhoneTitle" = "你的电话";
+"Login.PhonePlaceholder" = "你的电话号码";
+"Login.CountryCode" = "国家区号";
+"Login.InvalidCountryCode" = "无效的国家区号";
+
+"Login.CodeTitle" = "你的验证码";
+
+"Login.InfoTitle" = "个人信息";
+"Login.InfoAvatarAdd" = "添加";
+"Login.InfoAvatarPhoto" = "头像";
+"Login.InfoFirstNamePlaceholder" = "名";
+"Login.InfoLastNamePlaceholder" = "姓";
+"Login.InfoUpdatePhoto" = "替换照片";
+"Login.InfoDeletePhoto" = "删除照片";
+"Login.InfoHelp" = "编辑名字和头像。";
+
+"Login.UserProtocolInfo" = "注册代表你已阅读并同意";
+"Login.UserProtocol" = "Dove用户协议";
+
+// Login.SelectCountry
+"Login.SelectCountry.Title" = "国家";
+
+// Welcome Screen
+"WelcomeScreen.Title" = "开始吧";
+"WelcomeScreen.Logout" = "登出";
+"WelcomeScreen.Greeting" = "欢迎, %@!";
+"WelcomeScreen.ContactsAccessDisabled" = "抱歉, 不能同步联系人。";
+"WelcomeScreen.ContactsAccessHelp" = "Dove 是基于你手机的联系人的应用，请去你 %@ 的设置 - 隐私 - 联系人 中将Dove设置为开启。";
+"WelcomeScreen.ContactsAccessSettings" = "设置";
+"WelcomeScreen.UpdatingTitle" = "更新中";
+
+// Dialog List
+"DialogList.TabTitle" = "聊天";
+"DialogList.Title" = "聊天";
+"DialogList.SearchLabel" = "搜索";
+"DialogList.SelectContact" = "选择联系人";
+"DialogList.SelectContacts" = "选择联系人";
+"DialogList.Create" = "新建";
+"DialogList.NoMessagesTitle" = "你还没有对话";
+"DialogList.NoMessagesText" = "点右上角的按钮或进入联系人页面开始聊天。";
+"DialogList.SingleTypingSuffix" = "%@ 正在输入";
+"DialogList.MultipleTypingSuffix" = "%d 正在输入";
+"DialogList.Typing" = "输入中";
+"DialogList.ClearHistoryConfirmation" = "清除记录";
+"DialogList.DeleteConversationConfirmation" = "删除并退出";
+"DialogList.AwaitingEncryption" = "等待 %@ 上线...";
+"DialogList.EncryptionRejected" = "加密对话已取消";
+"DialogList.EncryptionProcessing" = "正在交换加密密钥...";
+"DialogList.EncryptedChatStartedOutgoing" = "%@ 加入了你的加密对话。";
+"DialogList.EncryptedChatStartedIncoming" = "%@ 创建了一个加密对话。";
+"DialogList.Conversations" = "对话";
+"DialogList.Messages" = "消息";
+
+// Compose
+"Compose.TokenListPlaceholder" = "想和谁聊？";
+"Compose.NewMessage" = "新消息";
+"Compose.NewGroup" = "创建群组";
+"Compose.NewEncryptedChat" = "加密对话";
+"Compose.NewBroadcast" = "广播";
+"Compose.NewBroadcastButton" = "新的广播";
+"Compose.Recipients" = "接收人";
+"Compose.Create" = "创建";
+
+// Contacts
+"Contacts.TabTitle" = "联系人";
+"Contacts.Title" = "联系人";
+"Contacts.Invite" = "邀请";
+"Contacts.contact" = "联系人";
+"Contacts.contacts" = "联系人";
+"Contacts.contactsvar" = "联系人";
+"Contacts.InvitationText" = "嗨, 我们到Dove里聊天吧 http://dove.tinfinite.com";
+"Contacts.FailedToSendInvitesMessage" = "出错了.";
+"Contacts.AccessDeniedError" = "Dove 查不到你的联系人";
+"Contacts.AccessDeniedHelpLandscape" = "请去你 %@ 的设置 - 隐私 - 联系人 中\n将Dove设置为开启。";
+"Contacts.AccessDeniedHelpPortrait" = "请去你 %@ 的设置 - 隐私 - 联系人 中将Dove设置为开启。";
+"Contacts.AccessDeniedHelpON" = "开启";
+"Contacts.InviteToDove" = "邀请到 Dove";
+"Contacts.InviteFriends" = "邀请好友";
+"Contacts.SelectAll" = "选择全部";
+
+// Conversation
+"Conversation.InputTextPlaceholder" = "消息";
+"Conversation.Send" = "发送";
+"Conversation.typing" = "正在输入";
+"Conversation.MessageDeliveryFailed" = "你的信息没有发送成功. 点击 \"重新发送\" 。";
+"Conversation.MessageDialogEdit" = "编辑";
+"Conversation.MessageDialogRetry" = "重新发送";
+"Conversation.MessageDialogRetryAll" = "重新发送 %1$d 消息";
+"Conversation.MessageDialogDelete" = "删除";
+"Conversation.LinkDialogOpen" = "打开";
+"Conversation.LinkDialogCopy" = "复制";
+"Conversation.EditDelete" = "删除";
+"Conversation.EditForward" = "转发";
+"Conversation.ForwardToPersonFormat" = "转发到 %@?";
+"Conversation.ForwardToGroupFormat" = "转发到 %@?";
+"Conversation.ForwardTitle" = "转发";
+"Conversation.ForwardChats" = "聊天";
+"Conversation.ForwardContacts" = "联系人";
+"Conversation.StatusKickedFromGroup" = "你已从群组中被移出";
+"Conversation.StatusLeftGroup" = "你离开了群组";
+"Conversation.StatusTyping" = "正在输入";
+"Conversation.BroadcastTitle" = "广播";
+"Conversation.Call" = "呼叫";
+"Conversation.Mute" = "静音";
+"Conversation.Unmute" = "取消静音";
+"Conversation.Edit" = "编辑";
+"Conversation.Info" = "详情";
+"Conversation.SecretChat" = "私密对话";
+"Conversation.UnsecretChat" = "普通对话";
+"Conversation.Block" = "屏蔽";
+"Conversation.Unblock" = "解除屏蔽";
+"Conversation.ClearAll" = "删除全部";
+"Conversation.Location" = "位置";
+"Conversation.Document" = "文件";
+"Conversation.Contact" = "联系人";
+"Conversation.BlockUser" = "屏蔽用户";
+"Conversation.UnblockUser" = "解除屏蔽";
+"Conversation.ReportUser" = "举报用户";
+"Conversation.DeleteGroup" = "删除小组";
+"Conversation.DeleteChat" = "删除对话";
+"Conversation.ClearAllConfirmation" = "删除所有消息？";
+"Conversation.SearchImages" = "搜索图片";
+"Conversation.UnsupportedMedia" = "现有版本的Dove不支持这条消息。请更新应用来看：\nhttp://dove.tinfinite.com";
+"Conversation.EncryptionWaiting" = "等待 %@ 上线...";
+"Conversation.EncryptionProcessing" = "正在交换加密密钥...";
+"Conversation.SupportPlaceholder" = "有问题要问 Dove?";
+"Conversation.EmptyPlaceholder" = "暂无消息...";
+"Conversation.EncryptedPlaceholderTitleIncoming" = "%@ 邀请你加入加密对话。";
+"Conversation.EncryptedPlaceholderTitleOutgoing" = "你邀请了 %@ 加入加密对话。";
+"Conversation.EncryptedDescriptionTitle" = "加密对话:";
+"Conversation.EncryptedDescription1" = "使用点对点的加密";
+"Conversation.EncryptedDescription2" = "服务器上不留下任何记录";
+"Conversation.EncryptedDescription3" = "使用阅后即焚的计时器";
+"Conversation.EncryptedDescription4" = "不允许转发消息";
+"Conversation.EncryptedForwardingAlert" = "抱歉，你不能够送加密对话中转发消息。";
+"Conversation.ContextMenuPost" = "发帖";
+"Conversation.ContextMenuCopy" = "复制";
+"Conversation.ContextMenuDelete" = "删除";
+"Conversation.ContextMenuVote" = "投票";
+"Conversation.ContextMenuForward" = "转发";
+"Conversation.ContextMenuMore" = "更多...";
+
+"Conversation.StatusMembers_1" = "1个成员";
+"Conversation.StatusMembers_2" = "2个成员";
+"Conversation.StatusMembers_3_10" = "%@ 成员";
+"Conversation.StatusMembers_any" = "%@ 成员";
+
+"Conversation.StatusRecipients_1" = "1 接收者";
+"Conversation.StatusRecipients_2" = "2 接收者";
+"Conversation.StatusRecipients_3_10" = "%@ 接收者";
+"Conversation.StatusRecipients_any" = "%@ 接收者";
+
+"Conversation.StatusOnline_1" = "1人在线";
+"Conversation.StatusOnline_2" = "2人在线";
+"Conversation.StatusOnline_3_10" = "%@ 人在线";
+"Conversation.StatusOnline_any" = "%@ 人在线";
+
+"Conversation.UnreadMessages" = "未读消息";
+"Conversation.InfoGroup" = "群组";
+"Conversation.InfoPrivate" = "联系人";
+"Conversation.InfoBroadcastList" = "名单";
+
+"Conversation.PostToBoard" = "发帖";
+
+// Notification
+"Notification.RenamedChat" = "%@ 修改了群组名";
+"Notification.ChangedGroupPhoto" = "%@ 修改了群组头像";
+"Notification.RemovedGroupPhoto" = "%@ 移除了群组头像";
+"Notification.ChangedUserPhoto" = "%@ 添加了新头像";
+"Notification.RemovedUserPhoto" = "%@ 移除了头像";
+"Notification.JoinedChat" = "%@ 加入了群组";
+"Notification.Invited" = "%@ 邀请了 %@";
+"Notification.LeftChat" = "%@ 离开了群组";
+"Notification.Kicked" = "%@ 踢出了 %@";
+"Notification.CreatedChat" = "%@ 创建了群组";
+"Notification.CreatedBroadcastList" = "你创建了一个广播名单";
+"Notification.CreatedChatWithTitle" = "%@ 创建了群组 \"%@\"";
+"Notification.Joined" = "%@ 加入了 Dove";
+"Notification.ChangedGroupName" = "%@ 将群组名修改为\"%@\"";
+"Notification.NewAuthDetected" = "%1$@,\n我们检测到您的账号于%2$@, %3$@ at %4$@在其它设备上登录\n\n设备: %5$@\n位置: %6$@\n\n如果不是您本人操作，您可以选择设置 — 隐私和安全 — 登出其它设备\n\nDove团队敬上";
+"Notification.EncryptedChatRequested" = "加密对话邀请";
+"Notification.EncryptedChatAccepted" = "开始加密对话";
+"Notification.MessageLifetimeChanged" = "%1$@ 已将阅后即焚计时器设定为 %2$@";
+"Notification.MessageLifetimeChangedOutgoing" = "您将阅后即焚计时器设定为 %1$@";
+"Notification.MessageLifetimeRemoved" = "%1$@ 取消了阅后即焚计时器";
+"Notification.MessageLifetimeRemovedOutgoing" = "您取消了阅后即焚计时器";
+"Notification.MessageLifetime2s" = "2 秒";
+"Notification.MessageLifetime5s" = "5 秒";
+"Notification.MessageLifetime1m" = "1 分钟";
+"Notification.MessageLifetime1h" = "1 小时";
+"Notification.MessageLifetime1d" = "1 天";
+"Notification.MessageLifetime1w" = "1 星期";
+
+// Message
+"Message.Photo" = "照片";
+"Message.Video" = "视频";
+"Message.Location" = "位置";
+"Message.Contact" = "联系人";
+"Message.File" = "文件";
+"Message.Sticker" = "表情";
+"Message.Audio" = "语音";
+"Message.ForwardedMessage" = " %@ 转发的消息";
+"Message.SharedContact" = "分享的联系人";
+
+// Conversation Profile
+"ConversationProfile.ErrorCreatingConversation" = "出错了";
+"ConversationProfile.UserLeftChatError" = "抱歉, %@ 决定离开了这个群组，所以你不能再次请他进来。";
+"ConversationProfile.UnknownAddMemberError" = "抱歉，出现未预料的错误。我们收到了通知会尽快修改的。";
+"ConversationProfile.UsersTooMuchError" = "抱歉，这个群组已满. 不能再加入更多成员。";
+
+"ConversationProfile.LeaveDeleteAndExit" = "删除并退出";
+
+"Conversation.DownloadPhoto" = "下载照片";
+"Conversation.ViewPhoto" = "查看照片";
+"Conversation.PlayVideo" = "播放视频";
+"Conversation.Play" = "播放";
+"Conversation.Stop" = "暂停";
+"Conversation.ViewFile" = "查看文件";
+"Conversation.Download" = "下载";
+"Conversation.DownloadMegabytes" = "下载了 %.1fMb";
+"Conversation.DownloadKilobytes" = "下载了 %dKb";
+"Conversation.Megabytes" = "%.1fMb";
+"Conversation.Kilobytes" = "%dKb";
+"Conversation.DownloadProgressMegabytes" = "%1$.1fMb / %2$.1fMb";
+"Conversation.DownloadProgressKilobytes" = "%1$dKb / %2$dKb";
+"Conversation.ViewLocation" = "查看位置";
+"Conversation.SearchWebImages" = "搜索图片";
+"Conversation.ShareMyContactInfo" = "分享我的联系方式";
+"Conversation.AddContact" = "添加联系人";
+"Conversation.SendMessage" = "发送消息";
+"Conversation.EncryptionCanceled" = "加密对话已取消";
+"Conversation.DeleteOneMessage" = "删除消息";
+"Conversation.DeleteManyMessages" = "删除消息";
+"Conversation.View" = "查看";
+"Conversation.Download" = "下载";
+"Conversation.SlideToCancel" = "滑动撤销";
+"Conversation.ApplyLocalization" = "使用本地化";
+"Conversation.OpenFile" = "打开文件";
+"Conversation.MicrophoneAccessDisabled" = "Dove 需要使用你的麦克风来进行语音消息。请到 设置  — 隐私 — 麦克风 里将 Dove 设置为开启。";
+
+// Media Picker
+"MediaPicker.Send" = "发送";
+"MediaPicker.Choose" = "选择";
+"SearchImages.SearchImages" = "搜索图片";
+"SearchImages.Title" = "相册";
+"MediaPicker.CameraRoll" = "相机胶卷";
+"SearchImages.NoImagesFound" = "未找到图片";
+"MediaPicker.AccessDeniedError" = "Dove 没有权限访问您的照片";
+"MediaPicker.AccessDeniedHelp" = "请到您的 %@ 设置 — 隐私 — 照片.\n开启Dove选项.";
+"SearchImages.Downloading#Kb" = "下载中 %d Kb";
+"SearchImages.Downloading#Mb" = "下载中 %d Mb";
+"SearchImages.ImageNofM" = "图片 %1$@ of %2$@";
+"SearchImages.DownloadCancelled" = "下载已取消";
+"SearchImages.ErrorDownloadingImage" = "图片下载错误";
+"SearchImages.SkipImage" = "跳过图片";
+"SearchImages.RetryDownload" = "重试下载";
+"MediaPicker.Attach" = "添加";
+
+// User Profile
+"Profile.ImageUploadError" = "出错了，请稍后再试。";
+"Profile.PhonebookAccessDisabled" = "使用这个功能需要去 设置 — 隐私 — 联系人 中将 Dove 设为开启";
+"Profile.CreateEncryptedChatError" = "出差错了。";
+"Profile.CreateEncryptedChatOutdatedError" = "不能和 %@ 发起加密聊天， \n%@使用的是旧版本的Dove，需要先更新。";
+"Profile.CreateNewContact" = "新建联系人";
+"Profile.AddToExisting" = "添加到已有联系人";
+"Profile.EncryptionKey" = "密钥时";
+"Profile.MessageLifetime" = "阅后即焚时间";
+"Profile.MessageLifetimeForever" = "关闭";
+"Profile.MessageLifetime2s" = "2s";
+"Profile.MessageLifetime5s" = "5s";
+"Profile.MessageLifetime1m" = "1m";
+"Profile.MessageLifetime1h" = "1h";
+"Profile.MessageLifetime1d" = "1d";
+"Profile.MessageLifetime1w" = "1w";
+"Profile.ShareContactButton" = "分享联系人";
+"Profile.ShareContactPersonFormat" = "发送联系人到 %@?";
+"Profile.ShareContactGroupFormat" = "发送联系人到 %@?";
+
+// User Info
+"UserInfo.Title" = "详情";
+"UserInfo.FirstNamePlaceholder" = "名字";
+"UserInfo.LastNamePlaceholder" = "姓";
+"UserInfo.GenericPhoneLabel" = "电话";
+"UserInfo.SendMessage" = "发消息";
+"UserInfo.AddContact" = "添加为联系人";
+"UserInfo.ShareContact" = "分享联系人";
+"UserInfo.StartSecretChat" = "开始私密聊天";
+"UserInfo.DeleteContact" = "删除联系人";
+"UserInfo.CreateNewContact" = "创建新的联系人";
+"UserInfo.AddToExisting" = "添加到已存在的联系人";
+"UserInfo.AddPhone" = "添加手机号";
+"UserInfo.NotificationsEnabled" = "开启";
+"UserInfo.NotificationsDisabled" = "关闭";
+"UserInfo.NotificationsEnable" = "开启";
+"UserInfo.NotificationsDisable" = "关闭";
+"UserInfo.Invite" = "邀请朋友加入Dove";
+
+// New Contact
+"NewContact.Title" = "新建联系人";
+
+// Phone Label
+"PhoneLabel.Title" = "标签";
+
+// Secret Chat
+"SecretChat.Title" = "私密聊天";
+
+// Group Info
+"GroupInfo.Title" = "群组信息";
+"GroupInfo.GroupNamePlaceholder" = "群组名称";
+"GroupInfo.BroadcastListNamePlaceholder" = "列表名称";
+"GroupInfo.SetGroupPhoto" = "设置群组图片";
+"GroupInfo.SetGroupPhotoStop" = "停止";
+"GroupInfo.SetGroupPhotoDelete" = "删除图片";
+"GroupInfo.Notifications" = "通知提醒";
+"GroupInfo.Anonymous" = "实名转发我的消息";
+"GroupInfo.AnonymousDescribe" = "允许其他用户将我的内容转发到公开信息流";
+"GroupInfo.Sound" = "声音";
+"GroupInfo.InviteByQRCode" = "二维码邀请";
+"GroupInfo.GroupBoard" = "群留言板";
+"GroupInfo.GroupType" = "群组类型";
+"GroupInfo.GroupTypeDes" = "如果群组是公开的，群留言板的信息将会显示到公共信息流里，群组名也会显示在发现页面。";
+"GroupInfo.GroupSettings" = "群设置";
+"GroupInfo.SharedMedia" = "分享文件";
+"GroupInfo.SharedMediaNone" = "没有文件";
+"GroupInfo.DeleteAndExit" = "删除并退出";
+"GroupInfo.DeleteAndExitConfirmation" = "你将不能再次加入这个群组";
+"GroupInfo.ParticipantCount_1" = "1 个成员";
+"GroupInfo.ParticipantCount_2" = "2 个成员";
+"GroupInfo.ParticipantCount_3_10" = "%@ 个成员";
+"GroupInfo.ParticipantCount_any" = "%@ 个成员";
+"GroupInfo.AddParticipant" = "添加成员";
+"GroupInfo.AddParticipantTitle" = "联系人";
+"GroupInfo.AddParticipantConfirmation" = "添加 %@ 到这个群组?";
+"GroupInfo.KickedStatus" = "你被从该群组踢出";
+"GroupInfo.LeftStatus" = "你已退出该群组";
+"GroupInfo.Stick" = "置顶";
+"GroupInfo.Discover" = "在发现中显示";
+"GroupInfo.JionRequest" = "入群申请";
+"GroupInfo.JoinGroup" = "加入群组";
+"GroupInfo.Join" = "申请加入";
+"GroupInfo.JoinButton" = "加入";
+"GroupInfo.EnterGroupChat" = "进入群聊";
+"GroupInfo.Cancel" = "取消";
+"GroupInfo.OK" = "确定";
+"GroupInfo.JoinInfo" = "您是否要加入群组 %@";
+"GroupInfo.NeedUsername" = "需要设置用户名";
+"GroupInfo.NeedUsernameNotice" = "\n需要设置用户名才能加入群组,请设置好用户名";
+"GroupInfo.ScanInfo" = "请将相机放在二维码图片上方";
+"GroupInfo.QRCode" = "二维码";
+"GroupInfo.UseORCodeImage" = "使用相机胶卷中的二维码";
+"GroupInfo.JoinRequestTitle" = "加群申请";
+"GroupInfo.Approve" = "同意";
+"GroupInfo.Apply" = "申请入群";
+"GroupInfo.LeaveMessage" = "申请留言";
+"GroupInfo.ApplySuccess" = "申请成功";
+"GroupInfo.ApplyFailuer" = "申请失败";
+"GroupInfo.ApplyDescription" = "留下一句简单的介绍";
+"GroupInfo.SelfDescription" = "请简单介绍一下自己，以便群成员看到你的消息后同意你的申请。";
+"GroupInfo.JoinDescription" = "请最少输入10个字";
+"GroupInfo.Report" = "举报";
+"GroupInfo.BoardPostIntro" = "点击这里发布消息!";
+"GroupInfo.BoardBottomIntro" = "再也不用在聊天记录里辛苦爬楼了！群留言板是属于这个群的信息流，任何成员可以分享有意思的图文消息或者链接。让有价值的东西在这里沉淀。";
+"GroupInfo.BoardHasNoData" = "欢迎来到群留言板！";
+"GroupInfo.ShowGroupInDiscover" = "在发现中展示此群";
+"GroupInfo.Language" = "语言";
+"GroupInfo.Public" = "公开";
+"GroupInfo.Private" = "私有";
+"GroupInfo.OpenGroupBoard" = "公开群留言板";
+"GroupInfo.OpenGroupBoardDes" = "群留言板的消息将会显示在公共信息流中，任何人都可以看见";
+"GroupInfo.Introduction" = "简介";
+"GroupInfo.IntroSave" = "保存";
+"GroupInfo.SaveSuccess" = "保存成功";
+"GroupInfo.SaveFailed" = "保存失败";
+
+"Report.Title1" = "垃圾营销";
+"Report.Title2" = "淫秽色情";
+"Report.Title3" = "虚假信息";
+"Report.Success" = "举报成功";
+"Report.Reported" = "已举报";
+"Report.Failure" = "举报失败";
+
+"UpvoteMessages.Title" = "被赞的消息";
+
+// Encryption Key
+"EncryptionKey.Title" = "秘钥";
+"EncryptionKey.Description" = "这张图片是为本次和 %1$@ 密聊生成的可视化秘钥。\n\n如果这张秘钥图片和 %2$@ 手机上的秘钥图片一致，那么你们的密聊就200%%的安全。了解更多请参考 telegram.com";
+
+// Conversation media
+"ConversationMedia.Title" = "文件";
+"ConversationMedia.EmptyTitle" = "没有图片和视屏";
+
+// Preview
+"Preview.VideoNotYetDownloaded" = "视频还没有被下载";
+"Preview.GroupPhotoTitle" = "群组头像";
+"Preview.ProfilePhotoTitle" = "头像";
+"Preview.LoadingVideo" = "加载视频...";
+"Preview.LoadingImage" = "正在加载...";
+"Preview.LoadingImages" = "正在加载...";
+"Preview.DeletePhoto" = "删除图片";
+"Preview.DeleteVideo" = "删除视频";
+"Preview.ForwardViaDove" = "转发";
+"Preview.SaveToCameraRoll" = "保存到相册";
+"Preview.QRCode" = "解析二维码";
+
+// Map
+"Map.ChooseLocationTitle" = "位置";
+"Map.MapTitle" = "地图";
+"Map.Send" = "发送";
+"Map.Map" = "地图";
+"Map.Satellite" = "卫星图";
+"Map.Hybrid" = "混合";
+"Map.AccessDeniedError" = "为了启用此功能，请在您的隐私设置中将定为服务的Dove选项打开";
+"Map.ForwardViaDove" = "转发自Dove";
+"Map.GetDirections" = "到这里去";
+"Map.OpenInGoogleMaps" = "在谷歌地图中打开";
+
+// Web
+"Web.Error" = "无法打开此页";
+"Web.OpenExternal" = "在Safari中打开";
+"Web.CopyLink" = "复制链接";
+
+// Document
+"Document.TargetConfirmationFormat" = "发送文件 ({size}) 到 {target}?";
+
+// Dialog List
+"DialogList.You" = "你";
+
+// Settings
+"Settings.TabTitle" = "设置";
+"Settings.SetProfilePhoto" = "设置头像";
+"Settings.Logout" = "退出登录";
+"Settings.Title" = "设置";
+"Settings.Me" = "我";
+"Settings.MyPosts" = "我发布的";
+"Settings.MyUpvotes" = "我赞的";
+"Settings.Comments" = "评论";
+"Settings.Votes" = "投票";
+"Settings.Account" = "账号";
+"Settings.MyUpvotedMessages" = "我赞过的";
+"Settings.NotificationsAndSounds" = "通知和声音";
+"Settings.ChatSettings" = "聊天设置";
+"Settings.BlockedUsers" = "黑名单";
+"Settings.ChatBackground" = "聊天背景";
+"Settings.Support" = "提问";
+"Settings.FAQ" = "常见问题";
+"Settings.FAQ_URL" = "http://Dove.org/faq#general";
+"Settings.FAQ_Intro" = "Dove的客服是志愿者，我们会尽快回复，可能需要一段时间。\
+\
+请参考常见问题。";
+"Settings.FAQ_Button" = "常见问题";
+"Settings.SaveIncomingPhotos" = "保存收到的图片";
+"Settings.SaveIncomingPhotosHelp" = "将收到的图片保存到相册。";
+"Settings.LogoutError" = "出错了，请稍后再试。";
+"Settings.AnonymousItem" = "转发内容显示名字";
+"Settings.AnonymousInfo" = "用户转发我的消息到公共信息流时显示我的名字";
+"Settings.AnonymousAlert" = "请先在\'设置\' - \'隐私和安全\'中设置为允许";
+"Settings.SettingFailed" = "设置失败";
+"Settings.NoCommentDescription"  = "暂无评论！";
+"Settings.NoVoteDescription" = "还没有赞";
+"Settings.SegmentPost" = "帖子";
+"Settings.SegmentMessage" = "消息";
+"Settings.UpvotedMe" = "赞了你的帖子";
+"Settings.DownvotedMe" = "踩了你的帖子";
+"Settings.Terms" = "用户协议";
+
+// Notifications and Sounds
+"Notifications.Title" = "通知";
+"Notifications.MessageNotifications" = "消息通知";
+"Notifications.MessageNotificationsAlert" = "提示";
+"Notifications.MessageNotificationsPreview" = "消息预览";
+"Notifications.MessageNotificationsSound" = "声音";
+"Notifications.MessageNotificationsHelp" = "你可以在每个用户的详情里为其设置自定义通知。";
+
+"Notifications.GroupNotifications" = "群组通知";
+"Notifications.GroupNotificationsAlert" = "提示";
+"Notifications.GroupNotificationsPreview" = "消息预览";
+"Notifications.GroupNotificationsSound" = "声音";
+"Notifications.GroupNotificationsHelp" = "你可以在每个群组的详情里为其设置自定义通知。";
+
+"Notifications.TextTone" = "文字提示声";
+"Notifications.AlertTones" = "提示音";
+"Notifications.ClassicTones" = "经典";
+
+"Notifications.InAppNotifications" = "应用内通知";
+"Notifications.InAppNotificationsSounds" = "应用内声音";
+"Notifications.InAppNotificationsVibrate" = "应用内震动";
+"Notifications.InAppNotificationsPreview" = "应用内预览";
+
+"Notifications.EventNotification" = "事件通知";
+"Notifications.CommentAlert" = "评论提示";
+"Notifications.UpvoteAlert" = "投票提示";
+"Notifications.ApplyGroupAlert" = "申请入群提示";
+
+"Notifications.Reset" = "重置";
+"Notifications.ResetAllNotifications" = "重置所有通知设置";
+"Notifications.ResetAllNotificationsHelp" = "重置所有自定义的通知设定。";
+
+// Chat Settings
+"ChatSettings.Title" = "对话设置";
+"ChatSettings.Appearance" = "外观";
+"ChatSettings.TextSize" = "文字大小";
+"ChatSettings.TextSizeUnits" = "pt";
+"ChatSettings.AutomaticPhotoDownload" = "自动下载图片";
+"ChatSettings.AutomaticAudioDownload" = "自动下载音频";
+"ChatSettings.PrivateChats" = "加密对话";
+"ChatSettings.Groups" = "群组";
+"ChatSettings.Security" = "安全";
+"ChatSettings.ClearOtherSessions" = "终止其它设备";
+"ChatSettings.ClearOtherSessionsHelp" = "登出其它所有设备";
+"ChatSettings.ClearOtherSessionsConfirmation" = "您是否想要登出此设备之外的其它所有设备？";
+"ChatSettings.ClearOtherSessionsFailed" = "发生错误";
+"ChatSettings.Language" = "语言";
+"ChatSettings.RevertLanguage" = "重置语言";
+"ChatSettings.Cache" = "缓存";
+
+// Usage
+"Cache.Title" = "缓存设置";
+"Cache.ClearCache" = "清除缓存";
+"Cache.KeepMedia" = "保存多媒体文件";
+"Cache.Help" = "请您设置文件清理时间，您在此段时间中**未查看**的对话中的照片，视频和其它文件将从本设备上删除以节省磁盘空间所有的文件会存储在Telegram的云中，当您需要时会再次下载";
+
+// Blocked Users
+"BlockedUsers.Title" = "屏蔽";
+"BlockedUsers.SelectUserTitle" = "屏蔽用户";
+"BlockedUsers.AlreadyBlocked" = "该用户已屏蔽";
+"BlockedUsers.BlockUser" = "屏蔽";
+"BlockedUsers.BlockFormat" = "屏蔽 %@?";
+"BlockedUsers.BlockTitle" = "屏蔽";
+"BlockedUsers.LeavePrefix" = "离开 ";
+"BlockedUsers.Info" = "屏蔽了的用户看不到你的消息也不能将你加入群组中。他们看不到你的头像，是否在线和最后上线时间。";
+"BlockedUsers.AddNew" = "添加...";
+"BlockedUsers.Unblock" = "解除屏蔽";
+
+// Wallpaper
+"Wallpaper.Title" = "聊天背景";
+"Wallpaper.PhotoLibrary" = "相册";
+"Wallpaper.Set" = "选择";
+"Wallpaper.Wallpaper" = "壁纸";
+
+// Update
+"Update.Update" = "更新";
+
+// Service
+"Service.LocalizationDownloadError" = "不能下载本地化文件。请检查你的网络连接后再试。";
+"Service.ApplyLocalization" = "使用本地化？";
+"Service.ApplyLocalizationWithWarnings" = "%@\n\n使用本地化？";
+
+"Notification.SecretChatMessageScreenshot" = "%@ 使用了截屏！";
+"Notification.SecretChatScreenshot" = "截屏已获取！";
+
+// Broadcast Lists
+"DialogList.Broadcast" = "广播";
+"BroadcastLists.Title" = "广播名单";
+"BroadcastLists.NoListsYet" = "还没有名单";
+"BroadcastLists.NoListsText" = "通过广播名单，你可以简单的给多人发送消息.";
+
+// Broadcast List
+"BroadcastListInfo.Title" = "广播名单";
+"BroadcastListInfo.AddRecipient" = "添加收件人";
+
+// Video
+"VideoPreview.OptionSD" = "标准尺寸 (%@)";
+"VideoPreview.OptionHD" = "高清 (%@)";
+
+"ChatSettings.AutoPlayAudio" = "自动播放语音";
+
+"Settings.LogoutConfirmationTitle" = "确定退出登录?";
+"Settings.LogoutConfirmationText" = "你可以在多个设备中同时无缝的使用Dove，请记住，退出登录会删除你所有的加密聊天记录。";
+
+"Login.PadPhoneHelp" = "\n你可以用你的常用手机号在任何手机上登录Dove，\n请不要用 iPad's 的 SIM 号码 — 我们需要给你发短信。这个电话正确吗? {number}";
+"Login.PadPhoneHelpTitle" = "你的电话号码";
+
+"MessageTimer.Custom" = "自定义";
+"MessageTimer.Title" = "自定义定时器";
+
+"MessageTimer.Forever" = "永久";
+
+"MessageTimer.Seconds_1" = "%@ 秒";
+"MessageTimer.Seconds_2" = "%@ 秒";
+"MessageTimer.Seconds_3_10" = "%@ 秒";
+"MessageTimer.Seconds_any" = "%@ 秒";
+"MessageTimer.Minutes_1" = "%@ 分钟";
+"MessageTimer.Minutes_2" = "%@ 分钟";
+"MessageTimer.Minutes_3_10" = "%@ 分钟";
+"MessageTimer.Minutes_any" = "%@ 分钟";
+"MessageTimer.Hours_1" = "%@ 小时";
+"MessageTimer.Hours_2" = "%@ 小时";
+"MessageTimer.Hours_3_10" = "%@ 小时";
+"MessageTimer.Hours_any" = "%@ 小时";
+"MessageTimer.Days_1" = "%@ 天";
+"MessageTimer.Days_2" = "%@ 天";
+"MessageTimer.Days_3_10" = "%@ 天";
+"MessageTimer.Days_any" = "%@ 天";
+"MessageTimer.Weeks_1" = "%@ 星期";
+"MessageTimer.Weeks_2" = "%@ 星期";
+"MessageTimer.Weeks_3_10" = "%@ 星期";
+"MessageTimer.Weeks_any" = "%@ 星期";
+"MessageTimer.Months_1" = "%@ 月";
+"MessageTimer.Months_2" = "%@ 月";
+"MessageTimer.Months_3_10" = "%@ 月";
+"MessageTimer.Months_any" = "%@ 月";
+"MessageTimer.Years_1" = "%@ 年";
+"MessageTimer.Years_2" = "%@ 年";
+"MessageTimer.Years_3_10" = "%@ 年";
+"MessageTimer.Years_any" = "%@ 年";
+
+"MessageTimer.ShortSeconds_1" = "%@s";
+"MessageTimer.ShortSeconds_2" = "%@s";
+"MessageTimer.ShortSeconds_3_10" = "%@s";
+"MessageTimer.ShortSeconds_any" = "%@s";
+"MessageTimer.ShortMinutes_1" = "%@m";
+"MessageTimer.ShortMinutes_2" = "%@m";
+"MessageTimer.ShortMinutes_3_10" = "%@m";
+"MessageTimer.ShortMinutes_any" = "%@m";
+"MessageTimer.ShortHours_1" = "%@h";
+"MessageTimer.ShortHours_2" = "%@h";
+"MessageTimer.ShortHours_3_10" = "%@h";
+"MessageTimer.ShortHours_any" = "%@h";
+"MessageTimer.ShortDays_1" = "%@d";
+"MessageTimer.ShortDays_2" = "%@d";
+"MessageTimer.ShortDays_3_10" = "%@d";
+"MessageTimer.ShortDays_any" = "%@d";
+"MessageTimer.ShortWeeks_1" = "%@w";
+"MessageTimer.ShortWeeks_2" = "%@w";
+"MessageTimer.ShortWeeks_3_10" = "%@w";
+"MessageTimer.ShortWeeks_any" = "%@w";
+
+"Activity.UploadingPhoto" = "正在发送图片";
+"Activity.UploadingVideo" = "正在发送视频";
+"Activity.UploadingDocument" = "正在发送文件";
+"Activity.RecordingAudio" = "正在录制声音";
+"Activity.Location" = "选择地理位置";
+
+"Service.NetworkConfigurationUpdatedMessage" = "连接更新成功";
+
+"Compatibility.SecretMediaVersionTooLow" = "%@ 正在使用老版本的Dove, 加密图片将被以兼容模式显示. 一旦 %@ 更新到最新版本 Dove, 带阅后即焚功能的图片（1分钟或更少时间）将可以在'长按'模式下正常使用，并且一旦有截屏事件发生你都会收到提醒。";
+
+"Contacts.GlobalSearch" = "全局搜索";
+"Contacts.InviteToTelegram" = "邀请好友加入Dove";
+"Profile.Username" = "用户名";
+"Settings.Username" = "用户名";
+"Settings.UsernameEmpty" = "无";
+
+"Username.Title" = "用户名";
+"Username.Placeholder" = "你的用户名";
+"Username.Help" = "你可以在**Telegram**上选择一个用户名. 如果你有了用户名，其他人可以不需要知道你的手机号而通过用户名或者联系人找到你.允许使用 **a-z**, **0-9** 和下划线. 最少需要 **5** 个字符.";
+"Username.InvalidTooShort" = "用户名最少需要5个字符.";
+"Username.InvalidStartsWithNumber" = "用户名不能以数字开头.";
+"Username.InvalidCharacters" = "用户名无效.";
+"Username.InvalidTaken" = "该用户名被占用.";
+
+"Username.CheckingUsername" = "正在检查用户名...";
+"Username.UsernameIsAvailable" = "%@ 是可以使用的.";
+
+"WebSearch.Images" = "图片";
+"WebSearch.GIFs" = "动画";
+"WebSearch.RecentSectionTitle" = "最近";
+"WebSearch.RecentSectionClear" = "清除";
+
+"Settings.PrivacySettings" = "隐私和安全";
+
+"UserCount_1" = "1 个用户";
+"UserCount_2" = "2 个用户";
+"UserCount_3_10" = "%@ 个用户";
+"UserCount_any" = "%@ 个用户";
+
+"PrivacySettings.Title" = "隐私和安全";
+
+"PrivacySettings.PrivacyTitle" = "隐私";
+"PrivacySettings.LastSeen" = "最后上线";
+"PrivacySettings.LastSeenEverybody" = "所有人";
+"PrivacySettings.LastSeenContacts" = "我的联系人";
+"PrivacySettings.LastSeenNobody" = "不对任何人公开";
+
+"PrivacySettings.LastSeenEverybodyMinus" = "所有人 (-%@)";
+"PrivacySettings.LastSeenContactsPlus" = "我的联系人 (+%@)";
+"PrivacySettings.LastSeenContactsMinus" = "我的联系人 (-%@)";
+"PrivacySettings.LastSeenContactsMinusPlus" = "我的联系人 (-%@, +%@)";
+"PrivacySettings.LastSeenNobodyPlus" = "Nobody (+%@)";
+
+"PrivacySettings.SecurityTitle" = "安全";
+
+"PrivacySettings.DeleteAccountTitle" = "删除我的账号";
+"PrivacySettings.DeleteAccountIfAwayFor" = "如果我上次上线时间超过";
+"PrivacySettings.DeleteAccountHelp" = "如果你在这段时间之内没有登录过，你的账号会和群组、聊天、联系人一起被删除。";
+"PrivacySettings.DeleteAccountNowConfirmation" = "删除你的账号?";
+"PrivacySettings.DeleteAccountNever" = "从不";
+
+"PrivacyLastSeenSettings.Title" = "最后上线";
+"PrivacyLastSeenSettings.LastSeenHelp" = "更改谁可以看到你的最后上线时间。";
+"PrivacyLastSeenSettings.CustomHelp" = "提醒： 如果你不给他们显示你的最后上线时间，你也看不到他们的最后上线时间。会显示成近似最后上线时间（最近、一周之内、一个月之内）.";
+"PrivacyLastSeenSettings.AlwaysShareWith" = "总分享给";
+"PrivacyLastSeenSettings.NeverShareWith" = "从不分享给";
+"PrivacyLastSeenSettings.CustomShareSettingsHelp" = "这些设置将会覆盖上面的内容。";
+
+"PrivacyLastSeenSettings.CustomShareSettings.Delete" = "删除";
+"PrivacyLastSeenSettings.AlwaysShareWith.Title" = "公开";
+"PrivacyLastSeenSettings.AlwaysShareWith.Placeholder" = "对这些人公开...";
+"PrivacyLastSeenSettings.NeverShareWith.Title" = "隐藏";
+"PrivacyLastSeenSettings.NeverShareWith.Placeholder" = "对这些人隐藏...";
+"PrivacyLastSeenSettings.EmpryUsersPlaceholder" = "添加用户";
+"PrivacyLastSeenSettings.AddUsers_1" = "添加 1 个用户到列表?";
+"PrivacyLastSeenSettings.AddUsers_2" = "添加 2 个用户到列表?";
+"PrivacyLastSeenSettings.AddUsers_3_10" = "添加 %@ 个用户到列表?";
+"PrivacyLastSeenSettings.AddUsers_any" = "添加 %@ 个用户到列表?";
+
+"PrivacySettings.FloodControlError" = "抱歉, 请求过于频繁. 暂时无法更改隐私设置, 请稍后再试.";
+
+"Settings.PhoneNumber" = "电话号码";
+
+"PhoneNumberHelp.Help" = "你可以更改Dove账号。 你之前的账号和所有的云数据 — 消息，媒体文件，联系人等等将会迁移到新的账号。\n\n**提示:** Dove中您所有的联系人将添加您的新号码到通讯录, 黑名单成员除外.";
+"PhoneNumberHelp.Alert" = "Dove中您所有的联系人将添加您的新号码到通讯录, 黑名单成员除外.";
+"PhoneNumberHelp.ChangeNumber" = "修改号码";
+
+"ChangePhoneNumberNumber.Title" = "修改号码";
+"ChangePhoneNumberNumber.NewNumber" = "新手机号码";
+"ChangePhoneNumberNumber.Help" = "我们发送了一条带有验证码的短信到您的新手机号.";
+"ChangePhoneNumberNumber.NumberPlaceholder" = "请输入您的新手机号码";
+
+"ChangePhoneNumberCode.Code" = "验证码";
+"ChangePhoneNumberCode.CodePlaceholder" = "验证码";
+"ChangePhoneNumberCode.Help" = "我们发送了一条带有验证码的短信到您的手机";
+"ChangePhoneNumberCode.CallTimer" = "我们稍后将会呼叫您的手机 %@";
+"ChangePhoneNumberCode.RequestingACall" = "正在呼叫...";
+"ChangePhoneNumberCode.Called" = "Dove 呼叫了你的号码";
+
+"QuickSend.Photos_1" = "发送 1 张照片";
+"QuickSend.Photos_2" = "发送 2 张照片";
+"QuickSend.Photos_3_10" = "发送 %@ 张照片";
+"QuickSend.Photos_any" = "发送 %@ 张照片";
+"QuickAttach.Photos_1" = "添加 1 张照片";
+"QuickAttach.Photos_2" = "添加 2 张照片";
+"QuickAttach.Photos_3_10" = "添加 %@ 张照片";
+"QuickAttach.Photos_any" = "添加 %@ 张照片";
+
+"GesturePassword.Title" = "手势密码";
+"GesturePassword.Notice_1" = "请设置手势密码";
+"GesturePassword.Notice_2" = "请再次确认";
+"GesturePassword.Notice_3" = "您两次手势密码不一致";
+"GesturePassword.Notice_4" = "取消手势密码";
+"GesturePassword.Notice_5" = "手势密码错误";
+
+"QRCode.Title" = "群邀请码";
+"QRCode.Notice" = "使用Dove扫描二维码加入";
+
+//Discover
+"Discover.ShowInDiscover" = "在\"发现\"中展示";
+"Discover.Describe" = "开启此选项将群组展示在\"发现\"中，以便其他用户加入该群组\n";
+"Discover.TabTitle" = "发现";
+"Discover.Title" = "发现";
+"Discover.PublicFeed" = "公共信息流";
+"Discover.DiscoverGroup" = "发现群组";
+"Discover.MyUpvote" = "我赞过的";
+"Discover.Waiting" = "请等待";
+"Discover.On" = "开启";
+"Discover.Off" = "关闭";
+"Discover.DescribePlaceHolder" = "请描述此群组...";
+"Discover.NoneGroupInfo" = "您所在的地区还没有公开群聊\n\n您可以创建一个群聊，并在群聊详情内将其显示在发现页";
+"Discover.Recommended" = "推荐";
+"Discover.MostUpvoted" = "最热";
+"Discover.Descrip1" = "您加入的群组会在这显示";
+"Discover.Descrip2" = "发现有意思的群组";
+
+"Emoji.notice" = "最近使用的类别";
+
+"en" = "英文";
+"zh" = "中文";
+
+//Vote
+"Vote.VoteUp" = "已赞";
+"Vote.CancelVoteUp" = "已取消赞";
+"Vote.VoteDown" = "已踩";
+"Vote.CancelVoteDown" = "已取消踩";
+"Vote.OperationFail" = "操作失败";
+//"Vote.Point" = "赞";
+//"Vote.Points" = "赞";
+"Vote.upvoteAction" = "赞";
+"Vote.downvoteAction" = "踩";
+"Vote.upvotedAction" = "已赞";
+"Vote.downvotedAction" = "已踩";
+"Vote.voteActionInfo" = "为消息投票";
+
+//stream
+"Stream.Cancel" = "取消";
+"Stream.Post" = "发布";
+"Stream.PublishTitle" = "发布到信息流";
+"Stream.PublishPlaceHolder" = "写点什么...";
+"Stream.PublishSuccess" = "发布成功";
+"Stream.PublishFail" = "发布失败";
+"Stream.PostPublicStream" = "发布到公共信息流";
+"Stream.PostNotice" = "暂时只支持文字和图片消息";
+"Stream.PublicStreamTitle" = "全网信息流";
+"Stream.CommentPlaceHolder" = "输入评论";
+"Stream.CommentSuccess" = "评论成功";
+"Stream.CommentFail" = "评论失败";
+"Stream.Comments" = "评论";
+"Stream.Points" = "赞";
+"Stream.CommentNotNil" = "评论内容不能为空";
+"Stream.Comment" = "评论";
+"Stream.DeleteNodel" = "确定要删除此条消息？";
+"Stream.Delete" = "删除";
+"Stream.Cancel" = "取消";
+"Stream.DeleteSuccess" = "删除成功";
+"Stream.DeleteFailure" = "删除失败";
+"Stream.Report" = "举报";
+"Stream.Block" = "屏蔽";
+"Stream.BlockAsk" = "确定要屏蔽此用户的消息？";
+"Stream.BlockPost" = "屏蔽消息";
+"Stream.UnblockPost" = "解除屏蔽消息";
+"Stream.NoComments" = "还没有人评论";
+"Stream.ForwardBy" = "转发自";
+"Stream.AnonymousAlert" = "Dove 加入了公共信息流，您可以在里面分享信息，也可以将群聊中的消息分享到公共信息流。\n\n当然，如果您不希望让自己的消息被实名转发出去，您可以在群详情内设置为对公共信息流匿名。";
+"Stream.ForwardTip1" = "还有1条消息...";
+"Stream.ForwardTip2" = "还有%lu条消息...";
+"Stream.TabTitle" = "信息流";
+"Stream.NodeNotExist" = "帖子不存在";
+"Stream.MaxImageCount" = "您最多只能选择六张图片";
+
+//Groups
+"Groups.TabTitle" = "群组";
+
+//Me
+"Me.TabTitle" = "我";
+
+

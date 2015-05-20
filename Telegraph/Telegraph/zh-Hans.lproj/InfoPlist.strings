@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+//"CFBundleDisplayName" = "Dove";
+
+"NSContactsUsageDescription" = "Dove 通过Telegram将你的联系人在云端加密，你可以在任何设备上和朋友联系";
+"NSLocationWhenInUseUsageDescription" = "当你给朋友发送位置的时候，Dove需要你的允许";
